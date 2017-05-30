@@ -1,0 +1,45 @@
+1.explain what is apache thrift?
+A)
+  *Apache thrift is a software framework that allows to define the data types and service 
+   interfaces.
+  *It is used for implementing the remote procedure call(RPC).
+  *The client requires a way to know the exposed functions by this service and their parameters.
+  *The apache thrift has its own interface definition language.
+
+2)Explain what is REST?
+A)
+*REST is Representatinal State Transfer.It is  based on the existing web based technologies
+*They are started on the top of the reion server processes,sharing the same physical machiene.
+*The server Rest use the common htable based client API to access the tables
+
+3)what is bulk import in Hbase?
+A)The bulk import in the Hbase  is 
+
+several bulk import techniques are:
+1.PutSortReducer
+2.HFileOutputFormat
+3.TableMapReduceUtil
+4.TableOutputFormat
+
+4) what is meant by work flow and what is an oosie workflow?
+A)*The workflow consists of an orchestrated and repeatable patetern of the business activity enbled
+by the systematic organization of the resources that transforms the materials provide services.
+*oozie cann run workflow jobs with the mapreduce and pig action nodes.
+*Oozie jobs are directed by the Directed Acylic Graphs of actions.
+
+5)How can you track a oozie job?
+A)oozie job can be tracked using the job tracker in the job.properties
+
+6)What kind of jobs can be scheduled with oozie?
+A)There are two types of the Oozie jobs .They are:
+1.Oozie workflow jobs.
+2.Oozie Coordinator jobs.
+
+
+7)What is meant by Oozie coordinator and how is it useful?
+A)The Oozie co-ordinator system aloows the user to define and execute the recurrent 
+and interdependent workflow job.
+
+
+
+
